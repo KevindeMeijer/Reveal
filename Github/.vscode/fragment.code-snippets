@@ -1,0 +1,42 @@
+{
+  "Fragment - Fade in": {
+    "prefix": "fragment",
+    "body": [
+      "<!-- .element: class=\"fragment\" $1 -->"
+    ],
+    "description": "Fade in the prefixed element",
+    "scope": "markdown"
+  },
+  "Fragment - Fade out": {
+    "prefix": "fragment",
+    "body": [
+      "<!-- .element: class=\"fragment fade-out\" $1 -->"
+    ],
+    "description": "Fade out the prefixed element",
+    "scope": "markdown"
+  },
+  "Fragment - Fade in then out": {
+    "prefix": "fragment",
+    "body": [
+      "<!-- .element: class=\"fragment fade-in-then-out\" $1 -->"
+    ],
+    "description": "Fade in then out the prefixed element",
+    "scope": "markdown"
+  },
+  "Fragment - Fade up": {
+    "prefix": "fragment",
+    "body": [
+      "<!-- .element: class=\"fragment fade-up\" $1 -->"
+    ],
+    "description": "Fade up the prefixed element",
+    "scope": "markdown"
+  },
+  "Fragment Data - Index": {
+    "prefix": "fragment-data",
+    "body": [
+      "data-fragment-index=\"${1:1}\" "
+    ],
+    "description": "Fade up the prefixed element",
+    "scope": "markdown"
+  },
+}

@@ -1,0 +1,18 @@
+{
+  "Helper - Slider attribute": {
+    "prefix": "slide-attribute",
+    "body": "<!-- .slide: $1 -->",
+    "description": "Adds attributes to slide",
+    "scope": "markdown"
+  },
+  "Helper - Stack": {
+    "prefix": "stack",
+    "body": [
+      "<div class=\"r-stack\">",
+      "  $0",
+      "</div>"
+    ],
+    "description": "Stacks elements over each other",
+    "scope": "markdown"
+  }
+}
