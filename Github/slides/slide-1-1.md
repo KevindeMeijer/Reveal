@@ -1,24 +1,15 @@
-### Stacking
-With `.r-stack`
+#### What's on the menu today 
 
-
-<div class='r-stack'>
-
-```jsx
-// This is a singular file
-const hello = 'world'
-
-// Open with codepen -->
-```
-<!-- .element: class="fragment fade-in-then-out"  -->
-
-
-```jsx
-// This is another file
-const foo = console.log('oh noh?')
-
-// Open with codepen -->
-```
-<!-- .element: class="fragment fade-in-then-out"  -->
-
-</div>
+- What's Github
+  - Commits
+  - Branches
+  - Alternatives 
+- Commands
+  - Most used
+  - Less used
+  - Avoid
+- Commit Messages
+  - The bad
+  - The good
+- Gitflow
+  - We're branching out
