@@ -1,24 +1,5 @@
-### Stacking
-With `.r-stack`
+### What's Github
 
-
-<div class='r-stack'>
-
-```jsx
-// This is a singular file
-const hello = 'world'
-
-// Open with codepen -->
-```
-<!-- .element: class="fragment fade-in-then-out"  -->
-
-
-```jsx
-// This is another file
-const foo = console.log('oh noh?')
-
-// Open with codepen -->
-```
-<!-- .element: class="fragment fade-in-then-out"  -->
-
-</div>
+<img style="padding: 24px; height:128px;" src="./assets/github.png">
+<img style="padding: 24px; height:128px;" src="./assets/github_desktop.png">
+<img style="padding: 24px; height:128px;" src="./assets/git.png">
