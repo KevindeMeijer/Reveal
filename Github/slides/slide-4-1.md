@@ -6,3 +6,4 @@
 - Finish your senten
 - You've got 72 characters. So. Do. Not. Use. Points.
 - Imperatives!
+- [Gitmoji? 🤔](https://gitmoji.dev/ "Source") 
