@@ -1,1 +1,1 @@
-<img src="./assets/aboutme.gif">
+<iframe allowFullscreen height="160px" width="410px"  src="https://kevindemeijer.github.io/KevindeMeijer/contact/"> 
