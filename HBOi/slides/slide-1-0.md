@@ -1,4 +1,4 @@
-### HBOi Domeinbeschrijving
+### HBO-i Domeinbeschrijving
 
 -
 
