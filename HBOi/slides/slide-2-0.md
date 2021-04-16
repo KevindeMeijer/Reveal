@@ -1,3 +1,5 @@
 ### What is HBO-i
 
-<iframe width="90%" height="500px" src="https://hbo-i.nl/domeinbeschrijving/"></iframe>
+>National framework for IT related qualifications.
+
+These were composed by Universities & Businesses

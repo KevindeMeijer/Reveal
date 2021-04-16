@@ -2,6 +2,6 @@
 
 - Quick recap about Lean
 - Wordcloud
-- Front-end Changes
-- Back-end Changes
+- Assignment checker
+- FAQ
 - Roadmap

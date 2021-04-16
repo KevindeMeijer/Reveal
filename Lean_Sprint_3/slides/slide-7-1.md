@@ -1,9 +1,10 @@
-### [Find the Roadmap here](https://education.github.com/git-cheat-sheet-education.pdf "Devdroplets")
+### [Find the Roadmap here](https://git.devdroplets.com/open-ict/lean/-/wikis/Roadmap-(WIP) "Devdroplets")
 
 | Q2 Ready up          | Q3 Deploying         | 
 |--------------------- |----------------------|
-| BV starten           | Review generalisatie | 
+| Teacher improvement  | Review generalisatie | 
 | Refactor BE          | Deployable           |
 | VPC & Product vision | Commercial website   |
 | Review overhaul FE   | Admin page           |
-| Teacher improvement  | Internationalization |
+|                      | Internationalization |
+|                      | *(BV starten)*       |
