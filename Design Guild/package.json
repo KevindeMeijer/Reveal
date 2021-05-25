@@ -1,0 +1,45 @@
+{
+  "name": "reveal.js",
+  "version": "3.9.2",
+  "description": "The HTML Presentation Framework",
+  "homepage": "https://devdroplets.com",
+  "subdomain": "revealjs",
+  "main": "js/reveal.js",
+  "scripts": {
+    "test": "grunt test",
+    "start:old": "grunt serve",
+    "start": "node app.js",
+    "build": "grunt"
+  },
+  "author": {
+    "name": "Ryan Saebu",
+    "email": "ryan@devdroplets.com",
+    "web": "https://devdroplets.com"
+  },
+  "engines": {
+    "node": ">=9.0.0"
+  },
+  "devDependencies": {
+    "express": "^4.17.1",
+    "grunt": "^1.0.4",
+    "grunt-autoprefixer": "^3.0.4",
+    "grunt-cli": "^1.3.2",
+    "grunt-contrib-connect": "^2.0.0",
+    "grunt-contrib-cssmin": "^3.0.0",
+    "grunt-contrib-jshint": "^2.0.0",
+    "grunt-contrib-qunit": "^3.1.0",
+    "grunt-contrib-uglify": "^3.3.0",
+    "grunt-contrib-watch": "^1.1.0",
+    "grunt-sass": "^3.0.2",
+    "grunt-zip": "~0.17.1",
+    "load-grunt-tasks": "^4.0.0",
+    "mustache": "^2.3.0",
+    "node-sass": "^4.13.1",
+    "socket.io": "^2.2.0"
+  },
+  "license": "MIT",
+  "dependencies": {
+    "reveal-run-in-terminal": "^1.0.2",
+    "xterm": "^4.4.0"
+  }
+}
